@@ -4,7 +4,10 @@ A Typst template package designed for preparing abstracts for the Annual Meeting
 
 [分子科学討論会](https://www.molsci.jp/forum-top/forum/)の講演要旨を作成するための Typst テンプレートです（非公式）。
 
-![](https://i.gyazo.com/5a17086fd308f18e861bf7c7c9bba8e3.png)
+<p align="center">
+<img src="https://i.gyazo.com/5a17086fd308f18e861bf7c7c9bba8e3.png" width="48%">
+<img src="https://i.gyazo.com/491de498e4394e06177081362a0928f3.png" width="48%">
+</p>
 
 ## できること
 
