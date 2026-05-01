@@ -2,7 +2,7 @@
 
 A Typst template package for abstracts of the Annual Meeting of Molecular Science, following the society form layout (non-official).
 
-分子科学討論会の講演要旨を作成するための Typst から テンプレート（非公式）です。
+[分子科学討論会](https://www.molsci.jp/forum-top/forum/)の講演要旨を作成するための Typst テンプレートです（非公式）。
 
 ![](https://i.gyazo.com/5a17086fd308f18e861bf7c7c9bba8e3.png)
 
