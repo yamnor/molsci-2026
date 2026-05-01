@@ -1,6 +1,6 @@
 # molsci-2026
 
-A Typst template package for abstracts of the Annual Meeting of Molecular Science, following the society form layout (non-official).
+A Typst template package designed for preparing abstracts for the Annual Meeting on Molecular Science (Japan). It follows the official layout guidelines but is an unofficial project.
 
 [分子科学討論会](https://www.molsci.jp/forum-top/forum/)の講演要旨を作成するための Typst テンプレートです（非公式）。
 
