@@ -1,0 +1,17 @@
+# Typst build outputs
+*.pdf
+*.svg
+
+# macOS
+.DS_Store
+
+# Development
+.vscode
+.cursor
+.cursorignore
+
+# Test
+test/
+
+# Development
+dev/

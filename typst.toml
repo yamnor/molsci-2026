@@ -1,0 +1,23 @@
+[package]
+name = "molsci-2026"
+version = "0.1.0"
+compiler = "0.11.0"
+entrypoint = "lib.typ"
+authors = ["yamnor <https://nory.jp/>"]
+repository = "https://github.com/yamnor/molsci-2026"
+license = "MIT"
+description = "Typst template for abstracts of the Annual Meeting of Molecular Science (Japan)."
+keywords = [
+  "molecular-science",
+  "conference",
+  "abstract",
+  "japanese",
+  "typst",
+]
+categories = ["paper"]
+disciplines = ["chemistry"]
+
+[template]
+path = "template"
+entrypoint = "main.typ"
+thumbnail = "thumbnail.png"
